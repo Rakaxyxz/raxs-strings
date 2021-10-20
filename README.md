@@ -1,7 +1,7 @@
-# TG-String-Session
-Hasilkan Sesi String Pyrogram Menggunakan bot ini.
+# TG-Raxs String-Session
+Untuk Menghasilkan Sesi String Pyrogram Menggunakan bot ini.
 
-<a href="https://t.me/kenkanasw"><img src="https://img.shields.io/badge/Telegram-Owner-blue.svg?logo=telegram"></a>
+<a href="https://t.me/ImthelastKingMs"><img src="https://img.shields.io/badge/Telegram-Owner-blue.svg?logo=telegram"></a>
 
 ## Demo Bot:
 <a href="https://t.me/Stringdurhakabot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
@@ -19,10 +19,10 @@ Hasilkan Sesi String Pyrogram Menggunakan bot ini.
   - Telegram Bot Token dari [here](https://t.me/BotFather).
 
 ## Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kenkannih/Strings)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RaxsBot/Raxs-Strings)
 
 ## Support Group:
-<a href="https://t.me/gcsupportbots"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Mimik_susu1"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 #### Coded By
 - [Krishna Singhal](https://github.com/Krishna-Singhal)
